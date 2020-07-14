@@ -25,6 +25,29 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(12).PDF" style="text-decoration:none;">The Electromagnetic Shift of Energy Levels</a></li> 
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(13).pdf" style="text-decoration:none;">The Radiation Theories of Tomonaga, Schwinger, and Feynman</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(14).pdf" style="text-decoration:none;">The Scattering of &alpha; and &beta; Particles by Matter and the Structure of the Atom</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(15).pdf" style="text-decoration:none;">The theory of positrons</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(16).pdf" style="text-decoration:none;">The development of quantum mechanics </a></li>   
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(17).pdf" style="text-decoration:none;">On the Law of Distribution of Energy in the Normal Spectrum</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(18).pdf" style="text-decoration:none;">Foundations of the new field theory</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(19).pdf" style="text-decoration:none;">Quantisation as a Problem of Proper Values (Part I) </a></li>   
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(20).pdf" style="text-decoration:none;">Quantisation as a Problem of Proper Values (Part II)</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(21).pdf" style="text-decoration:none;">The present situation in quantum mechanics</a></li> 
+ 
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(22).pdf" style="text-decoration:none;">On the Einstein-Podolsky-Rosen paradox</a></li> 
+ 
  
  
  
