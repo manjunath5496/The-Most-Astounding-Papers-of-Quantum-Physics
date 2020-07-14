@@ -23,7 +23,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(11).pdf" style="text-decoration:none;">Fine Structure of the Hydrogen Atom by a Microwave Method</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(12).PDF" style="text-decoration:none;"The Electromagnetic Shift of Energy Levels</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Most-Astounding-Papers-of-Quantum-Physics/blob/master/qunp(12).PDF" style="text-decoration:none;">The Electromagnetic Shift of Energy Levels</a></li> 
  
  
  
